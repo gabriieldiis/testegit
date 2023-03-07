@@ -1,4 +1,6 @@
 arquivo de teste
 
 
-arquivo de teste
+comandos git 
+
+mkdir cri
